@@ -1,4 +1,5 @@
 # README.md Generator
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web Development Bootcamp._
