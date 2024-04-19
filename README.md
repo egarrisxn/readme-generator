@@ -7,7 +7,7 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 A command-line application that dynamically generates a professional `README.md` file.
 
-![Screenshot 2024-04-18 212341](https://github.com/EGARRISXN/readme-generator/assets/126130230/35402325-390a-4c1f-8ccd-3788a5b84cd7)
+![323806678-35402325-390a-4c1f-8ccd-3788a5b84cd7](https://github.com/EGARRISXN/readme-generator/assets/126130230/63178ce7-98a6-4cbf-9e35-ff732205db97)
 
 ## Table of Contents
 
