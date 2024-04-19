@@ -14,8 +14,9 @@
     "repository",
     "repo",
     "readme",
-    "readme.md",
     "generator",
+    "markdown",
+    "javascript",
     "command-line",
     "application"
   ],
