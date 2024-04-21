@@ -22,6 +22,7 @@ A command-line application that dynamically generates a professional `README.md`
 
 ## Technologies
 
+- **Node.js**
 - **Markdown**
 - **Javascript**
 - **Inquirer.js**
