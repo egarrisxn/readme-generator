@@ -11,13 +11,14 @@ A command-line application that dynamically generates a `README.md` file.
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Test](#test)
+- [Tests](#tests)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [Questions](#questions)
 
 ## Technologies
 
+- Node.js
 - Javascript
 - Inquirer
 
@@ -34,7 +35,7 @@ A command-line application that dynamically generates a `README.md` file.
 6. Answer a few questions prompted within the terminal.
 7. Fin! You have created a new `README.md` file!
 
-## Test
+## Tests
 
 N/A
 
