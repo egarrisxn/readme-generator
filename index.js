@@ -1,7 +1,9 @@
 // Required Packages
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("./renderLicenseBadge");
+
+// Import the generateMarkdown function
+const generateMarkdown = require("./generateMarkdown");
 
 // Array of prompts for user
 const questions = [
@@ -41,11 +43,6 @@ const questions = [
   },
   {
     type: "input",
-    message: "How can others contribute to your project?",
-    name: "contributing",
-  },
-  {
-    type: "input",
     message: "Please provide any acknowledgements or credits:",
     name: "acknowledgements",
   },
@@ -80,8 +77,8 @@ const questions = [
 
 // Writes README file
 function writeToFile(data) {
-  if (!fs.existsSync("../output")) fs.mkdirSync("../output");
-  fs.writeFile("../output/README.md", data, (error) => {
+  if (!fs.existsSync("./output")) fs.mkdirSync("./output");
+  fs.writeFile("./output/README.md", data, (error) => {
     if (error) console.error("Error writing README file:", error);
     else console.log("README file created successfully!");
   });

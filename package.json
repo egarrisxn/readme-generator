@@ -4,15 +4,12 @@
   "description": "A command-line application that dynamically generates a README.md file.",
   "main": "index.js",
   "license": "MIT",
-  "author": "Ethan Garrison",
+  "author": "Ethan G",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "inquirer",
-    "git",
-    "repository",
-    "repo",
     "readme",
     "generator",
     "markdown",

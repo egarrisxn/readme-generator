@@ -2,55 +2,45 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
-
 ## Description
 
-A command-line application that dynamically generates a professional `README.md` file.
-
-![323806678-35402325-390a-4c1f-8ccd-3788a5b84cd7](https://github.com/EGARRISXN/readme-generator/assets/126130230/63178ce7-98a6-4cbf-9e35-ff732205db97)
+A command-line application that dynamically generates a `README.md` file.
 
 ## Table of Contents
 
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Test](#test)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Technologies
 
-- **Node.js**
-- **Markdown**
-- **Javascript**
-- **Inquirer.js**
+- Javascript
+- Inquirer
 
 ## Installation
 
-Depending on your package manager, you may clone this repository and run `npm install`, `pnpm install`, or maybe even `yarn install`.
+1. Clone this repository to your local machine.
+2. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
+3. Inside your terminal, run `npm install`, `pnpm install`, or `yarn install`.
 
 ## Usage
 
-1. Run `node index.js` in the terminal.
-2. Answer the prompted questions.
-3. Generate your `README.md` file.
+4. Navigate to the Root directory.
+5. Inside your terminal, run `node index.js`.
+6. Answer a few questions prompted within the terminal.
+7. Fin! You have created a new `README.md` file!
 
-## Tests
+## Test
 
-This project includes a basic test script in the `package.json` file. The script currently echoes an error message if no tests are specified.
+N/A
 
-## Contributing
+## Acknowledgements
 
-1. Fork the repository.
-2. Make some changes.
-3. Submit a pull request.
-4. Party rock in the house tonight.
-
-## Acnowledgements
-
-Shout out to my classmates in the bootcamp that allowed me to bounce off questions and possible solutions with!
+Shout out to all my classmates in the UCF Full-Stack Web Development Bootcamp!
 
 ## License
 
@@ -58,4 +48,4 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 
 ## Questions
 
-Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or directly via email at egarrisxn@gmail.com.
+Questions? Comments? Concerns? Reach out to me via [GitHub](https://github.com/EGARRISXN) or email at egarrisxn@gmail.com.
