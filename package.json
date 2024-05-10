@@ -12,6 +12,7 @@
     "inquirer",
     "markdown",
     "javascript",
+    "nodejs",
     "readme-generator"
   ],
   "dependencies": {

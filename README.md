@@ -10,6 +10,7 @@ A command-line application that dynamically generates a `README.md` file.
 
 - **Inquirer**
 - **JavaScript**
+- **Node.js**
 
 ## Installation
 
@@ -22,6 +23,11 @@ A command-line application that dynamically generates a `README.md` file.
 1. Inside your terminal, run `node index.js`.
 2. Answer a few questions prompted within the terminal.
 3. Fin! You have created a new `README.md` file!
+
+4. Navigate to the Root directory.
+5. Inside your terminal, run `node index.js`.
+6. Answer a few questions prompted within the terminal.
+7. Fin! You have created a new `README.md` file!
 
 ## License
 
