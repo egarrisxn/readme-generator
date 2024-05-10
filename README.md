@@ -9,8 +9,9 @@ A command-line application that dynamically generates a `README.md` file.
 ## Technologies
 
 - **Inquirer**
-- **JavaScript**
 - **Node.js**
+- **JavaScript**
+- **Markdown** 
 
 ## Installation
 
