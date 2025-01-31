@@ -1,6 +1,6 @@
 # README.md Generator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/readme-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/readme-generator)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/readme-generator-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/readme-generator-2023)
 
 ## Description
 
